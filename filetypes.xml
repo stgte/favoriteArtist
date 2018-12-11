@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="artist" type="HTML" />
       <mapping pattern="artists" type="PLAIN_TEXT" />
+      <mapping pattern="performance_edit.html" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
